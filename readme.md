@@ -7,7 +7,7 @@ I got bored, and decided to take the code from the original image (in JavaScript
 The languages are:  
 1. [C++](https://github.com/pazuzu156/Barista/tree/master/cpp)  
 2. [C#](https://github.com/pazuzu156/Barista/tree/master/csharp)  
-3. [Java](https://github.com/pazuzu156/Barista/tree/master/java)
+3. [Java](https://github.com/pazuzu156/Barista/tree/master/java)  
 4. [JavaScript (Original)](https://github.com/pazuzu156/Barista/tree/master/js)  
 5. [PHP](https://github.com/pazuzu156/Barista/tree/master/php)  
 6. [Python](https://github.com/pazuzu156/Barista/tree/master/python)
