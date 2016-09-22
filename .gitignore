@@ -1,0 +1,12 @@
+# VisualStudio crap
+csharp/barista.v12.suo
+csharp/.vs/
+csharp/barista/bin/
+csharp/barista/obj/
+
+# C++ compiled object stuff
+cpp/*.o
+cpp/barista.exe
+
+# Eclipse settings
+java/.settings/
