@@ -1,3 +1,11 @@
+/**
+ * Barista Java Example
+ *
+ * Coded in Atom: https://atom.io/
+ * License: NONE
+ * Repo: https://github.com/pazuzu156/barista
+ */
+
 package com.kalebklein;
 
 public class Main

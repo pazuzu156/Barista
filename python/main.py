@@ -1,4 +1,12 @@
 ###
+# Barista Python Example
+#
+# Coded in Atom: https://atom.io/
+# License: NONE
+# Repo: https://github.com/pazuzu156/barista
+###
+
+###
 # Barista object
 ###
 class Barista:

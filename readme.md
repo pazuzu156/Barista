@@ -19,3 +19,6 @@ C++ makefile is made for cross-compilation. However, the clean portion is not, s
 
 ## License, Copying, All That Other Sh*t
 There's NO license. Therefore, there are no restrictions. Do whatever you want with the code!
+
+## Editing, Forking, Etc.
+Feel free to fork the repo! It'd be nice to have this repo grow with many different languages, so if you add a new language to the list, please submit a pull request and help the repo grow! :D
