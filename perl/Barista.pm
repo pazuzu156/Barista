@@ -43,14 +43,12 @@ Original copy derived from the JavaScript version
 sub new
 {
   my $class = shift;
-  my $self = { };
-
+  my $self = {
+    _str1 => 'ers',
+    _str2 => 'rap',
+    _str3 => 'amet'
+  };
   bless $self, $class;
-
-  $self->{_str1} = "ers";
-  $self->{_str2} = "rap";
-  $self->{_str3} = "amet";
-
   return $self;
 }
 
