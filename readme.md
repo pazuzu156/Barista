@@ -9,9 +9,10 @@ The languages are:
 2. [C#](https://github.com/pazuzu156/Barista/tree/master/csharp)  
 3. [Java](https://github.com/pazuzu156/Barista/tree/master/java)  
 4. [JavaScript (Original)](https://github.com/pazuzu156/Barista/tree/master/js)  
-5. [PHP](https://github.com/pazuzu156/Barista/tree/master/php)  
-6. [Python](https://github.com/pazuzu156/Barista/tree/master/python)  
-7. [Ruby](https://github.com/pazuzu156/Barista/tree/master/ruby)
+5. [Perl](https://github.com/pazuzu156/Barista/tree/master/perl)  
+6. [PHP](https://github.com/pazuzu156/Barista/tree/master/php)  
+7. [Python](https://github.com/pazuzu156/Barista/tree/master/python)  
+8. [Ruby](https://github.com/pazuzu156/Barista/tree/master/ruby)
 
 Project files for Java (eclipse) are included as well as solution files for C#. For C++, a build script (makefile) is included, and a shell script for running PHP terminal server is also included for PHP.
 

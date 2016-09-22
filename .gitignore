@@ -10,3 +10,6 @@ cpp/barista.exe
 
 # Eclipse settings
 java/.settings/
+
+# Perldoc (Defaults)
+perl/barista.html
