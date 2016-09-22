@@ -1,9 +1,10 @@
 /**
  * Barista Java Example
  *
- * Coded in Atom: https://atom.io/
+ * Coded in Eclipse: http://www.eclipse.org/
  * License: NONE
  * Repo: https://github.com/pazuzu156/barista
+ * Creator: Kaleb Klein (https://github.com/pazuzu156)
  */
 
 package com.kalebklein;
