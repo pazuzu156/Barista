@@ -17,7 +17,23 @@ The languages are:
 Project files for Java (eclipse) are included as well as solution files for C#. For C++, a build script (makefile) is included, and a shell script for running PHP terminal server is also included for PHP.
 
 ## Special
+### C++
 C++ makefile is made for cross-compilation. However, the clean portion is not, since it executes shell scripts for deleting files. `clean` is for Unix (Mac, Linux, etc.) and clean-w is for Windows. Simple! :p
+
+### PHP
+PHP has a shell script for executing a local PHP server for testing. It's default location is [http://127.0.0.1:8080](http://127.0.0.1:8080)
+
+`-h HOSTNAME` - Sets a new hostname from the default  
+`-p PORT` - Sets a new port number from the default
+
+### Perl
+Perl has a shell script for generating a Perldoc file. It's default file is barista.html in HTML format
+
+`-o OUTPUT` - Sets the output format from the default  
+`-f FILENAME` - Sets the filename of the output from the default
+
+### CSharp
+C# comes with a batch script for building/cleaning a release version of the application without needing to open the solution file in Visual Studio
 
 ## License, Copying, All That Other Sh*t
 There's NO license. Therefore, there are no restrictions. Do whatever you want with the code!
