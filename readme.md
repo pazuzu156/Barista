@@ -7,12 +7,14 @@ I got bored, and decided to take the code from the original image (in JavaScript
 The languages are:  
 1. [C++](https://github.com/pazuzu156/Barista/tree/master/cpp)  
 2. [C#](https://github.com/pazuzu156/Barista/tree/master/csharp)  
-3. [Java](https://github.com/pazuzu156/Barista/tree/master/java)  
-4. [JavaScript (Original)](https://github.com/pazuzu156/Barista/tree/master/js)  
-5. [Perl](https://github.com/pazuzu156/Barista/tree/master/perl)  
-6. [PHP](https://github.com/pazuzu156/Barista/tree/master/php)  
-7. [Python](https://github.com/pazuzu156/Barista/tree/master/python)  
-8. [Ruby](https://github.com/pazuzu156/Barista/tree/master/ruby)
+3. [GO](https://github.com/pazuzu156/Barista/tree/master/go)  
+4. [Java](https://github.com/pazuzu156/Barista/tree/master/java)  
+5. [JavaScript (Original)](https://github.com/pazuzu156/Barista/tree/master/js)  
+6. [Perl](https://github.com/pazuzu156/Barista/tree/master/perl)  
+7. [PHP](https://github.com/pazuzu156/Barista/tree/master/php)  
+8. [Python](https://github.com/pazuzu156/Barista/tree/master/python)  
+9. [Ruby](https://github.com/pazuzu156/Barista/tree/master/ruby)  
+10. [Visual Basic](https://github.com/pazuzu156/Barista/tree/master/vb)
 
 Project files for Java (eclipse) are included as well as solution files for C#. For C++, a build script (makefile) is included, and a shell script for running PHP terminal server is also included for PHP.
 
@@ -34,6 +36,12 @@ Perl has a shell script for generating a Perldoc file. It's default file is bari
 
 ### CSharp
 C# comes with a batch script for building/cleaning a release version of the application without needing to open the solution file in Visual Studio
+
+### GO
+GO comes with a shell script for compiling the application and running it to display the output to the terminal. It's also used for cleaning the compiled binaries
+
+### Visual Basic
+Like C#, Visual Basic also comes with a build script (a copy of the C# script) for building/cleaning a release version of the application
 
 ## License, Copying, All That Other Sh*t
 There's NO license. Therefore, there are no restrictions. Do whatever you want with the code!

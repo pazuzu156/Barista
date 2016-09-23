@@ -3,6 +3,10 @@ csharp/barista.v12.suo
 csharp/.vs/
 csharp/barista/bin/
 csharp/barista/obj/
+vb/barista.v12.suo
+vb/.vs/
+vb/barista/bin/
+vb/barista/obj/
 
 # C++ compiled object stuff
 cpp/*.o
@@ -13,3 +17,7 @@ java/.settings/
 
 # Perldoc (Defaults)
 perl/barista.html
+
+# GO binaries
+go/bin/
+go/pkg/
